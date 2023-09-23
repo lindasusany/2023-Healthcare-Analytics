@@ -26,10 +26,6 @@ To run the SEIR Epidemic Model Visualization app locally, follow these steps:
 - Shiny (>= 1.6.0)
 - deSolve (>= 1.28)
 
-## Example
-
-![SEIR Model Visualization](screenshot.png)
-
 ## Contributing
 
 Contributions to this project are welcome. If you have ideas for improvements, bug fixes, or new features, please open an issue or submit a pull request.
@@ -40,9 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- This app was created as part of a project to explore and visualize epidemic models.
-- The SEIR model equations are based on epidemiological principles.
+- This work is equally contributed by me and Heidi AI Wakeel
 
 ---
 
-Replace `screenshot.png` with an actual screenshot of your app if you have one. Make sure to include relevant details about how to install and run the app, acknowledge any contributions, and provide licensing information. Customize this README summary to match your specific project's details and requirements.
