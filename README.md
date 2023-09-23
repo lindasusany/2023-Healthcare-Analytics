@@ -1,6 +1,3 @@
-# 2023-Healthcare-Analytics
-Using R to build and run statistic models
----
 
 # SEIR Epidemic Model Visualization
 
